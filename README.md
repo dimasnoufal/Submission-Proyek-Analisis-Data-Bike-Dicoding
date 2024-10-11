@@ -14,5 +14,5 @@ Project ini merupakan proyek Analisis Data pada dataset Bike Sharing. Hasil anal
 
 ## Run steamlit app
 ```
-streamlit run dashboard.py
+streamlit run dashboard\dashboard.py
 ```
